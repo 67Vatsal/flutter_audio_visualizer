@@ -21,6 +21,10 @@ This library is **UI-only**, allowing you to plug in any audio source, signal, o
 
 ---
 
+## Preview
+
+https://github.com/user-attachments/assets/b7ba1690-68f0-4519-8393-9c93aaaf3163
+
 ## Installation
 
 Add the dependency in your `pubspec.yaml`:
